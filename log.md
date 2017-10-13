@@ -23,3 +23,29 @@ Working on the same hackathon-starter project.
 Today I spent time to learn about hot-reload in react and how it can be implemented. I also read bootstrap v4 documentation, feels excited to implement the new structure in bootstrap for this hackathon-starter.
 
 **Link to work:** [Hackathon-Starter](https://github.com/martindavid/hackathon-starter)
+
+
+### Day 3: October 12, 2017
+**Today's Progress**
+Working on the same hackathon-starter project.
+* Add passportjs for authentication
+* Add login page
+* Add initial oauth code
+
+**Thoughts** 
+
+Today I spent some time read through [Ghost](https://github.com/TryGhost/Ghost) to learn about the structure of code and how to implement passport for authentication.
+
+**Link to work:** [Hackathon-Starter](https://github.com/martindavid/hackathon-starter)
+
+
+### Day 4: October 13, 2017
+**Today's Progress**
+- Coding for my uni assignment
+- Learn about UX design
+
+**Thoughts** 
+
+Break from my side project and focus on uni assignment. Interesting, when I flasback during this semester I `have` to learn 4 programming language at the same time, two of which literally force a different kind of thinking (declarative programming) -> Haskell and Prolog. Both are interesting and challenging language and worth to have some knowledge about it.
+
+**Link to work:** [Code Sandbox](https://github.com/martindavid/code-sandbox)
