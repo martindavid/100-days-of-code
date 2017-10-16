@@ -49,3 +49,13 @@ Today I spent some time read through [Ghost](https://github.com/TryGhost/Ghost) 
 Break from my side project and focus on uni assignment. Interesting, when I flasback during this semester I `have` to learn 4 programming language at the same time, two of which literally force a different kind of thinking (declarative programming) -> Haskell and Prolog. Both are interesting and challenging language and worth to have some knowledge about it.
 
 **Link to work:** [Code Sandbox](https://github.com/martindavid/code-sandbox)
+
+### Day 5: October 16, 2017
+**Today's Progress**
+- Try to reactify sb-admin-dashboard
+
+**Thoughts** 
+
+It's probably a good idea to start my own open-source project. Even though there are already many project outside like this, I want to make this as my learning media as well.
+
+**Link to work:** [SB Admin React](https://github.com/martindavid/sb-admin-react)
