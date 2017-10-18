@@ -59,3 +59,13 @@ Break from my side project and focus on uni assignment. Interesting, when I flas
 It's probably a good idea to start my own open-source project. Even though there are already many project outside like this, I want to make this as my learning media as well.
 
 **Link to work:** [SB Admin React](https://github.com/martindavid/sb-admin-react)
+
+### Day 6: October 17, 2017
+**Today's Progress**
+- Integrate reactstrap library to my project (sb-admin-reaact)
+
+**Thoughts** 
+
+The project is awesome, and learn from the source code is useful to understand how to build a react component
+
+**Link to work:** [SB Admin React](https://github.com/martindavid/sb-admin-react)
