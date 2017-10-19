@@ -62,10 +62,22 @@ It's probably a good idea to start my own open-source project. Even though there
 
 ### Day 6: October 17, 2017
 **Today's Progress**
-- Integrate reactstrap library to my project (sb-admin-reaact)
+- Integrate reactstrap library to my project (sb-admin-react)
 
 **Thoughts** 
 
 The project is awesome, and learn from the source code is useful to understand how to build a react component
+
+**Link to work:** [SB Admin React](https://github.com/martindavid/sb-admin-react)
+
+### Day 7: October 19, 2017
+**Today's Progress**
+- Play around with react-router v4
+- Finishing sidebar menu and header menu implementation
+
+**Thoughts** 
+
+- React-Router v4 makes me rethinking the way I setup my router, which different than what I used to.
+- reactstrap component is really easy to use and learn from its source code is useful enough.
 
 **Link to work:** [SB Admin React](https://github.com/martindavid/sb-admin-react)
