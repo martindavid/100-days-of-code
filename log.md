@@ -81,3 +81,16 @@ The project is awesome, and learn from the source code is useful to understand h
 - reactstrap component is really easy to use and learn from its source code is useful enough.
 
 **Link to work:** [SB Admin React](https://github.com/martindavid/sb-admin-react)
+
+### Day 8: October 20, 2017
+**Today's Progress**
+- Experimenting with React-Router v4
+- Reactify card component from sb-admin-bootstrap
+- Research good chart component for react
+
+**Thoughts** 
+
+- Still put my mind around new react-router structure and experiment with a couple of things
+- So much good chart component for react, need to see more on the reviews and the length of support for each of the component
+
+**Link to work:** [SB Admin React](https://github.com/martindavid/sb-admin-react)
