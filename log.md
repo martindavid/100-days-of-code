@@ -94,3 +94,14 @@ The project is awesome, and learn from the source code is useful to understand h
 - So much good chart component for react, need to see more on the reviews and the length of support for each of the component
 
 **Link to work:** [SB Admin React](https://github.com/martindavid/sb-admin-react)
+
+### Day 9: October 23, 2017
+**Today's Progress**
+- Add more component for news feed component example
+
+
+**Thoughts** 
+- Learn from other people source code is really interesting, especially a well-documented component.
+
+
+**Link to work:** [SB Admin React](https://github.com/martindavid/sb-admin-react)
