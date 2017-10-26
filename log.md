@@ -97,11 +97,32 @@ The project is awesome, and learn from the source code is useful to understand h
 
 ### Day 9: October 23, 2017
 **Today's Progress**
-- Add more component for news feed component example
+- Open my first PR to OSS project on github
 
+
+**Thoughts** 
+- Learn / read new code base is always a daunting task, but the feel of accomplishment after you can fix any bugs in it is priceless.
+
+**Link to work:** [Reactstrap](https://github.com/reactstrap/reactstrap)
+
+### Day 10: October 24, 2017
+**Today's Progress**
+- Add more component for news feed component example
 
 **Thoughts** 
 - Learn from other people source code is really interesting, especially a well-documented component.
 
+**Link to work:** [SB Admin React](https://github.com/martindavid/sb-admin-react)
+
+
+### Day 11: October 25, 2017
+**Today's Progress**
+- Simplify `FeedCard`, `Comment` component for social feed timeline example
+- Add dummy data for load social feed data dynamically
 
 **Link to work:** [SB Admin React](https://github.com/martindavid/sb-admin-react)
+
+### Day 12: October 26, 2017
+**Today's Progress**
+
+Not doing much for side project, mostly study for final exam. A bit exercising using Haskell/Prolog
