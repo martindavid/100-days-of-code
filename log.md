@@ -126,3 +126,15 @@ The project is awesome, and learn from the source code is useful to understand h
 **Today's Progress**
 
 Not doing much for side project, mostly study for final exam. A bit exercising using Haskell/Prolog
+
+### Day 13: October 27, 2017
+**Today's Progress**
+- Exercising using haskell and prolog
+- Recall my understanding on functional programming
+
+### Day 14: October 28, 2017
+**Today's Progress**
+- Finishing social feed example
+- Research a couple of react datatable component and ended up with [React-Table](https://react-table.js.org/#/story/readme)
+
+**Link to work:** [SB Admin React](https://github.com/martindavid/sb-admin-react)
