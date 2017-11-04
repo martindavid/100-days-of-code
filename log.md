@@ -138,3 +138,23 @@ Not doing much for side project, mostly study for final exam. A bit exercising u
 - Research a couple of react datatable component and ended up with [React-Table](https://react-table.js.org/#/story/readme)
 
 **Link to work:** [SB Admin React](https://github.com/martindavid/sb-admin-react)
+
+### Day 15: October 30, 2017
+**Today's Progress**
+More exercises on Haskell and Prolog for my Exam revision
+
+### Day 16: October 31, 2017
+**Today's Progress**
+- Finish with datatable example component
+- Show datatable example in dashboard and datatable page
+
+**Link to work:** [SB Admin React](https://github.com/martindavid/sb-admin-react)
+
+### Day 17: November 1, 2017
+**Today's Progress**
+- Learn integration between rails 5 and reactjs
+- Experimenting with `react_on_rails` gem
+
+### Day 18: November 2, 2017
+**Today's Progress**
+- My exam is coming, today's theme is all about haskell and prolog.
